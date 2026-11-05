@@ -1,177 +1,179 @@
 {
- "account": "chlomo.assouline",
- "ig_user_id": "29457099817217981",
- "composio_account": "instagram_buna-kneed",
- "items": [
-  {
-   "date": "2026-11-03",
-   "time": "19:00",
-   "type": "VIDEO",
-   "caption": "הסרטון הזה לא צולם 🤯\nכל פריים, כל מעבר וכל סאונד נבנו עם Claude, ואפילו הקול הוא בינה מלאכותית.\n\nאת כל הפרומפטים שאני משתמש בהם שמתי באתר אחד, בעברית ובחינם.\nתגיבו \"אתר\" ואשלח לכם את הקישור בפרטי 👇\n\n#בינהמלאכותית #קלוד #פרומפטים #יצירתתוכן #בעליעסקים",
-   "keyword": "אתר",
-   "story_share": "הסרטון הזה לא צולם 👀",
-   "story_question": "הייתם מאמינים שזה 100% בינה מלאכותית? (כן / בכלל לא)",
-   "status": "pending",
-   "video_url": "https://prompts.assoulineweb.com/media/v10.mp4",
-   "cover_url": "https://prompts.assoulineweb.com/media/c10.jpg"
+  "account": "chlomo.assouline",
+  "ig_user_id": "29457099817217981",
+  "composio_account": "instagram_buna-kneed",
+  "items": [
+    {
+      "date": "2026-11-03",
+      "time": "19:00",
+      "type": "VIDEO",
+      "caption": "הסרטון הזה לא צולם 🤯\nכל פריים, כל מעבר וכל סאונד נבנו עם Claude, ואפילו הקול הוא בינה מלאכותית.\n\nאת כל הפרומפטים שאני משתמש בהם שמתי באתר אחד, בעברית ובחינם.\nתגיבו \"אתר\" ואשלח לכם את הקישור בפרטי 👇\n\n#בינהמלאכותית #קלוד #פרומפטים #יצירתתוכן #בעליעסקים",
+      "keyword": "אתר",
+      "story_share": "הסרטון הזה לא צולם 👀",
+      "story_question": "הייתם מאמינים שזה 100% בינה מלאכותית? (כן / בכלל לא)",
+      "status": "published",
+      "video_url": "https://prompts.assoulineweb.com/media/v10.mp4",
+      "cover_url": "https://prompts.assoulineweb.com/media/c10.jpg",
+      "media_id": "18468814762140718"
+    },
+    {
+      "date": "2026-11-04",
+      "time": "19:00",
+      "type": "VIDEO",
+      "caption": "ככה הכנסתי \"מאה אלף שקל\" בערב אחד 😅\nטוב, לא בדיוק... אבל כן סכום יפה מאוד, בזכות פרומפט אחד.\n\nשלחתי ללקוחות ישנים הודעה אישית, חמה וקצרה, שקלוד כתב לי.\nבבוקר הטלפון לא הפסיק לצלצל.\n\nתגיבו \"לקוחות\" ואשלח לכם את הפרומפט בפרטי 👇\n\n#בינהמלאכותית #קלוד #בעליעסקים #שיווק #לקוחות",
+      "keyword": "לקוחות",
+      "story_share": "הערב הכי מטורף שלי השנה 👇",
+      "story_question": "יש לכם לקוחות ישנים שלא דיברתם איתם מזמן? (כן, הרבה / בכלל לא)",
+      "status": "published",
+      "video_url": "https://prompts.assoulineweb.com/media/v02.mp4",
+      "cover_url": "https://prompts.assoulineweb.com/media/c02.jpg",
+      "media_id": "18118582796010319"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "19:00",
+      "type": "CAROUSEL",
+      "caption": "5 פרומפטים ל־Claude שאני משתמש בהם כל שבוע בעסק 📒\nשמרו את הפוסט 🔖 וכתבו \"פרומפט\" בתגובות לגרסה המלאה בפרטי 👇\n#בינהמלאכותית #קלוד #פרומפטים #בעליעסקים #שיווקדיגיטלי",
+      "keyword": "פרומפט",
+      "story_share": "שמרו את זה, תודו לי אחר כך 🔖",
+      "story_question": "איזה פרומפט הכי חסר לכם? (תוכן / לקוחות / קמפיין / כסף)",
+      "status": "pending",
+      "image_urls": [
+        "https://prompts.assoulineweb.com/media/k1_1.jpg",
+        "https://prompts.assoulineweb.com/media/k1_2.jpg",
+        "https://prompts.assoulineweb.com/media/k1_3.jpg",
+        "https://prompts.assoulineweb.com/media/k1_4.jpg",
+        "https://prompts.assoulineweb.com/media/k1_5.jpg"
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "time": "12:00",
+      "type": "VIDEO",
+      "caption": "תפסיקו לשלם לסוכנות פרסום... לפחות עד שתראו את זה 👀\nפרומפט אחד ל־Claude שבונה לכם קמפיין שלם:\nקהל יעד, 3 טקסטים לפרסומת, רעיונות לתמונות, ואפילו חלוקת תקציב.\n\nתגיבו \"קמפיין\" ואשלח לכם את הפרומפט בפרטי 👇\n\n#בינהמלאכותית #קלוד #שיווקדיגיטלי #פרסום #בעליעסקים",
+      "keyword": "קמפיין",
+      "story_share": "כמה אתם משלמים על זה? 😳",
+      "story_question": "כמה אתם משלמים על פרסום בחודש? (פחות מ־1,000 ₪ / יותר)",
+      "status": "pending",
+      "video_url": "https://prompts.assoulineweb.com/media/v03.mp4",
+      "cover_url": "https://prompts.assoulineweb.com/media/c03.jpg"
+    },
+    {
+      "date": "2026-11-07",
+      "time": "19:00",
+      "type": "CAROUSEL",
+      "caption": "הנוסחה לפרומפט מושלם: 4 חלקים וזהו 💡\nשמרו את הפוסט 🔖 וכתבו \"נוסחה\" בתגובות לעוד דוגמאות בפרטי 👇\n#בינהמלאכותית #קלוד #פרומפטים #שיווקדיגיטלי #בעליעסקים",
+      "keyword": "נוסחה",
+      "story_share": "4 חלקים. זהו. 👇",
+      "story_question": "איך אתם כותבים לקלוד? (שורה אחת / פסקה שלמה)",
+      "status": "pending",
+      "image_urls": [
+        "https://prompts.assoulineweb.com/media/k3_1.jpg",
+        "https://prompts.assoulineweb.com/media/k3_2.jpg",
+        "https://prompts.assoulineweb.com/media/k3_3.jpg",
+        "https://prompts.assoulineweb.com/media/k3_4.jpg",
+        "https://prompts.assoulineweb.com/media/k3_5.jpg"
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "time": "19:00",
+      "type": "VIDEO",
+      "caption": "מה אם הייתם יודעים אם הרילס שלכם יצליח... עוד לפני שפרסמתם אותו? 🤯\nפרומפט אחד שהופך את Claude למבקר רילסים:\nציון לפתיחה, הרגע שבו אנשים עוזבים, ו־3 פתיחות חדשות.\n\nתגיבו \"ויראלי\" ואשלח לכם אותו בפרטי 👇\n\n#בינהמלאכותית #קלוד #רילס #יוצריתוכן #אינסטגרם",
+      "keyword": "ויראלי",
+      "story_share": "בדקתי את זה על הרילסים שלי 👇",
+      "story_question": "מה היה הרילס הכי מצליח שלכם? (תיבת שאלה)",
+      "status": "pending",
+      "video_url": "https://prompts.assoulineweb.com/media/v04.mp4",
+      "cover_url": "https://prompts.assoulineweb.com/media/c04.jpg"
+    },
+    {
+      "date": "2026-11-09",
+      "time": "19:00",
+      "type": "CAROUSEL",
+      "caption": "3 טעויות שכולם עושים עם Claude (ואיך לתקן אותן) ✍️\nשמרו את הפוסט 🔖 וכתבו \"תבנית\" בתגובות לקבל את התבנית שלי בפרטי 👇\n#בינהמלאכותית #קלוד #פרומפטים #בעליעסקים #טיפים",
+      "keyword": "תבנית",
+      "story_share": "גם אתם עושים את טעות מספר 1? 😅",
+      "story_question": "התשובות של קלוד יוצאות לכם כלליות? (כן / לא)",
+      "status": "pending",
+      "image_urls": [
+        "https://prompts.assoulineweb.com/media/k2_1.jpg",
+        "https://prompts.assoulineweb.com/media/k2_2.jpg",
+        "https://prompts.assoulineweb.com/media/k2_3.jpg",
+        "https://prompts.assoulineweb.com/media/k2_4.jpg",
+        "https://prompts.assoulineweb.com/media/k2_5.jpg"
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "time": "19:00",
+      "type": "VIDEO",
+      "caption": "שבוע שלם של תוכן לעסק, ב־20 דקות בלבד 🤯\nככה אני מכין את כל הפוסטים, הטקסטים והסטוריז של השבוע עם Claude.\n\nתגיבו \"תוכן\" ואשלח לכם את הפרומפט בפרטי 👇\n\n#בינהמלאכותית #קלוד #שיווקדיגיטלי #בעליעסקים #יצירתתוכן",
+      "keyword": "תוכן",
+      "story_share": "ככה אני חוסך שעות כל שבוע 👇",
+      "story_question": "כמה זמן לוקח לכם להכין תוכן לשבוע? (סליידר)",
+      "status": "pending",
+      "video_url": "https://prompts.assoulineweb.com/media/v05.mp4",
+      "cover_url": "https://prompts.assoulineweb.com/media/c05.jpg"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "19:00",
+      "type": "VIDEO",
+      "caption": "תגיבו \"בודק\" ואשלח לכם את הבודק שלי בפרטי 🎁\nושתפו עם מי שמעלה תוכן, זה יחסוך לו המון ניחושים.\n\nלקחתי את כל מה שאדם מוסרי, ראש אינסטגרם, אמר בפומבי על האלגוריתם,\nוהפכתי את זה לפרומפט ל־Claude שבודק כל רילס לפני שהוא עולה.\n\nמה שהכי הפתיע אותי:\n❌ אצל מי שלא עוקב, לייקים זה לא הכל.\n✅ מה שהכי חשוב זה כמה פעמים שולחים את הסרטון בפרטי.\n\nאז לפני כל רילס, אני שואל שאלה אחת:\nלמי מישהו ישלח את זה?\nאין תשובה? לא מעלים.\n\n#אינסטגרם #קלוד #בינהמלאכותית #יוצריתוכן #שיווקדיגיטלי",
+      "keyword": "בודק",
+      "story_share": "ראש אינסטגרם בעצמו אמר את זה 👇",
+      "story_question": "ידעתם ששליחות בפרטי חשובות יותר מלייקים? (ידעתי / בכלל לא)",
+      "status": "pending",
+      "video_url": "https://prompts.assoulineweb.com/media/v07.mp4",
+      "cover_url": "https://prompts.assoulineweb.com/media/c07.jpg"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "19:00",
+      "type": "CAROUSEL",
+      "caption": "5 דברים שהפסקתי לעשות ידנית מאז שאני עובד עם Claude ✅\nכתבו \"איך\" בתגובות ואשלח לכם בפרטי איך עשיתי את זה 👇\n#בינהמלאכותית #קלוד #אוטומציה #בעליעסקים #צלם",
+      "keyword": "איך",
+      "story_share": "וכל זה בלי לדעת לתכנת 👇",
+      "story_question": "מה הדבר הכי משעמם שאתם עושים ידנית בעסק? (תיבת שאלה)",
+      "status": "pending",
+      "image_urls": [
+        "https://prompts.assoulineweb.com/media/k4_1.jpg",
+        "https://prompts.assoulineweb.com/media/k4_2.jpg",
+        "https://prompts.assoulineweb.com/media/k4_3.jpg",
+        "https://prompts.assoulineweb.com/media/k4_4.jpg",
+        "https://prompts.assoulineweb.com/media/k4_5.jpg"
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "time": "12:00",
+      "type": "VIDEO",
+      "caption": "הטקסטים שלכם נשמעים כאילו רובוט כתב אותם? 🤖\n4 דברים שאני עושה בקלוד כדי שכל טקסט יישמע בדיוק כמוני:\n1. דוגמאות\n2. קהל\n3. מילים אסורות\n4. שלב אחרי שלב\n\nתעקבו ותגיבו \"אנושי\" ואשלח לכם את הפרומפט המלא בפרטי 👇\n\n#בינהמלאכותית #קלוד #פרומפטים #יצירתתוכן #בעליעסקים",
+      "keyword": "אנושי",
+      "story_share": "שימו לב לטעות מספר 3 👀",
+      "story_question": "הטקסטים שלכם נשמעים כמו רובוט? (לפעמים / אף פעם)",
+      "status": "pending",
+      "video_url": "https://prompts.assoulineweb.com/media/v08.mp4",
+      "cover_url": "https://prompts.assoulineweb.com/media/c08.jpg"
+    }
+  ],
+  "dm": {
+    "אתר": "היי! 🙌 הנה האתר עם כל הפרומפטים, בעברית ובחינם:\nhttps://prompts.assoulineweb.com/\nואם נרשמים שם, מקבלים עוד 5 פרומפטים במתנה 🎁",
+    "לקוחות": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#clients\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "פרומפט": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#weekly5\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "קמפיין": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#campaign\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "נוסחה": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#formula\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "ויראלי": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#viral\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "תבנית": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#template\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "תוכן": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#content\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "בודק": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#checker\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "איך": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#automate\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "אנושי": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#human\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥"
   },
-  {
-   "date": "2026-11-04",
-   "time": "19:00",
-   "type": "VIDEO",
-   "caption": "ככה הכנסתי \"מאה אלף שקל\" בערב אחד 😅\nטוב, לא בדיוק... אבל כן סכום יפה מאוד, בזכות פרומפט אחד.\n\nשלחתי ללקוחות ישנים הודעה אישית, חמה וקצרה, שקלוד כתב לי.\nבבוקר הטלפון לא הפסיק לצלצל.\n\nתגיבו \"לקוחות\" ואשלח לכם את הפרומפט בפרטי 👇\n\n#בינהמלאכותית #קלוד #בעליעסקים #שיווק #לקוחות",
-   "keyword": "לקוחות",
-   "story_share": "הערב הכי מטורף שלי השנה 👇",
-   "story_question": "יש לכם לקוחות ישנים שלא דיברתם איתם מזמן? (כן, הרבה / בכלל לא)",
-   "status": "pending",
-   "video_url": "https://prompts.assoulineweb.com/media/v02.mp4",
-   "cover_url": "https://prompts.assoulineweb.com/media/c02.jpg"
-  },
-  {
-   "date": "2026-11-05",
-   "time": "19:00",
-   "type": "CAROUSEL",
-   "caption": "5 פרומפטים ל־Claude שאני משתמש בהם כל שבוע בעסק 📒\nשמרו את הפוסט 🔖 וכתבו \"פרומפט\" בתגובות לגרסה המלאה בפרטי 👇\n#בינהמלאכותית #קלוד #פרומפטים #בעליעסקים #שיווקדיגיטלי",
-   "keyword": "פרומפט",
-   "story_share": "שמרו את זה, תודו לי אחר כך 🔖",
-   "story_question": "איזה פרומפט הכי חסר לכם? (תוכן / לקוחות / קמפיין / כסף)",
-   "status": "pending",
-   "image_urls": [
-    "https://prompts.assoulineweb.com/media/k1_1.jpg",
-    "https://prompts.assoulineweb.com/media/k1_2.jpg",
-    "https://prompts.assoulineweb.com/media/k1_3.jpg",
-    "https://prompts.assoulineweb.com/media/k1_4.jpg",
-    "https://prompts.assoulineweb.com/media/k1_5.jpg"
-   ]
-  },
-  {
-   "date": "2026-11-06",
-   "time": "12:00",
-   "type": "VIDEO",
-   "caption": "תפסיקו לשלם לסוכנות פרסום... לפחות עד שתראו את זה 👀\nפרומפט אחד ל־Claude שבונה לכם קמפיין שלם:\nקהל יעד, 3 טקסטים לפרסומת, רעיונות לתמונות, ואפילו חלוקת תקציב.\n\nתגיבו \"קמפיין\" ואשלח לכם את הפרומפט בפרטי 👇\n\n#בינהמלאכותית #קלוד #שיווקדיגיטלי #פרסום #בעליעסקים",
-   "keyword": "קמפיין",
-   "story_share": "כמה אתם משלמים על זה? 😳",
-   "story_question": "כמה אתם משלמים על פרסום בחודש? (פחות מ־1,000 ₪ / יותר)",
-   "status": "pending",
-   "video_url": "https://prompts.assoulineweb.com/media/v03.mp4",
-   "cover_url": "https://prompts.assoulineweb.com/media/c03.jpg"
-  },
-  {
-   "date": "2026-11-07",
-   "time": "19:00",
-   "type": "CAROUSEL",
-   "caption": "הנוסחה לפרומפט מושלם: 4 חלקים וזהו 💡\nשמרו את הפוסט 🔖 וכתבו \"נוסחה\" בתגובות לעוד דוגמאות בפרטי 👇\n#בינהמלאכותית #קלוד #פרומפטים #שיווקדיגיטלי #בעליעסקים",
-   "keyword": "נוסחה",
-   "story_share": "4 חלקים. זהו. 👇",
-   "story_question": "איך אתם כותבים לקלוד? (שורה אחת / פסקה שלמה)",
-   "status": "pending",
-   "image_urls": [
-    "https://prompts.assoulineweb.com/media/k3_1.jpg",
-    "https://prompts.assoulineweb.com/media/k3_2.jpg",
-    "https://prompts.assoulineweb.com/media/k3_3.jpg",
-    "https://prompts.assoulineweb.com/media/k3_4.jpg",
-    "https://prompts.assoulineweb.com/media/k3_5.jpg"
-   ]
-  },
-  {
-   "date": "2026-11-08",
-   "time": "19:00",
-   "type": "VIDEO",
-   "caption": "מה אם הייתם יודעים אם הרילס שלכם יצליח... עוד לפני שפרסמתם אותו? 🤯\nפרומפט אחד שהופך את Claude למבקר רילסים:\nציון לפתיחה, הרגע שבו אנשים עוזבים, ו־3 פתיחות חדשות.\n\nתגיבו \"ויראלי\" ואשלח לכם אותו בפרטי 👇\n\n#בינהמלאכותית #קלוד #רילס #יוצריתוכן #אינסטגרם",
-   "keyword": "ויראלי",
-   "story_share": "בדקתי את זה על הרילסים שלי 👇",
-   "story_question": "מה היה הרילס הכי מצליח שלכם? (תיבת שאלה)",
-   "status": "pending",
-   "video_url": "https://prompts.assoulineweb.com/media/v04.mp4",
-   "cover_url": "https://prompts.assoulineweb.com/media/c04.jpg"
-  },
-  {
-   "date": "2026-11-09",
-   "time": "19:00",
-   "type": "CAROUSEL",
-   "caption": "3 טעויות שכולם עושים עם Claude (ואיך לתקן אותן) ✍️\nשמרו את הפוסט 🔖 וכתבו \"תבנית\" בתגובות לקבל את התבנית שלי בפרטי 👇\n#בינהמלאכותית #קלוד #פרומפטים #בעליעסקים #טיפים",
-   "keyword": "תבנית",
-   "story_share": "גם אתם עושים את טעות מספר 1? 😅",
-   "story_question": "התשובות של קלוד יוצאות לכם כלליות? (כן / לא)",
-   "status": "pending",
-   "image_urls": [
-    "https://prompts.assoulineweb.com/media/k2_1.jpg",
-    "https://prompts.assoulineweb.com/media/k2_2.jpg",
-    "https://prompts.assoulineweb.com/media/k2_3.jpg",
-    "https://prompts.assoulineweb.com/media/k2_4.jpg",
-    "https://prompts.assoulineweb.com/media/k2_5.jpg"
-   ]
-  },
-  {
-   "date": "2026-11-10",
-   "time": "19:00",
-   "type": "VIDEO",
-   "caption": "שבוע שלם של תוכן לעסק, ב־20 דקות בלבד 🤯\nככה אני מכין את כל הפוסטים, הטקסטים והסטוריז של השבוע עם Claude.\n\nתגיבו \"תוכן\" ואשלח לכם את הפרומפט בפרטי 👇\n\n#בינהמלאכותית #קלוד #שיווקדיגיטלי #בעליעסקים #יצירתתוכן",
-   "keyword": "תוכן",
-   "story_share": "ככה אני חוסך שעות כל שבוע 👇",
-   "story_question": "כמה זמן לוקח לכם להכין תוכן לשבוע? (סליידר)",
-   "status": "pending",
-   "video_url": "https://prompts.assoulineweb.com/media/v05.mp4",
-   "cover_url": "https://prompts.assoulineweb.com/media/c05.jpg"
-  },
-  {
-   "date": "2026-11-11",
-   "time": "19:00",
-   "type": "VIDEO",
-   "caption": "תגיבו \"בודק\" ואשלח לכם את הבודק שלי בפרטי 🎁\nושתפו עם מי שמעלה תוכן, זה יחסוך לו המון ניחושים.\n\nלקחתי את כל מה שאדם מוסרי, ראש אינסטגרם, אמר בפומבי על האלגוריתם,\nוהפכתי את זה לפרומפט ל־Claude שבודק כל רילס לפני שהוא עולה.\n\nמה שהכי הפתיע אותי:\n❌ אצל מי שלא עוקב, לייקים זה לא הכל.\n✅ מה שהכי חשוב זה כמה פעמים שולחים את הסרטון בפרטי.\n\nאז לפני כל רילס, אני שואל שאלה אחת:\nלמי מישהו ישלח את זה?\nאין תשובה? לא מעלים.\n\n#אינסטגרם #קלוד #בינהמלאכותית #יוצריתוכן #שיווקדיגיטלי",
-   "keyword": "בודק",
-   "story_share": "ראש אינסטגרם בעצמו אמר את זה 👇",
-   "story_question": "ידעתם ששליחות בפרטי חשובות יותר מלייקים? (ידעתי / בכלל לא)",
-   "status": "pending",
-   "video_url": "https://prompts.assoulineweb.com/media/v07.mp4",
-   "cover_url": "https://prompts.assoulineweb.com/media/c07.jpg"
-  },
-  {
-   "date": "2026-11-12",
-   "time": "19:00",
-   "type": "CAROUSEL",
-   "caption": "5 דברים שהפסקתי לעשות ידנית מאז שאני עובד עם Claude ✅\nכתבו \"איך\" בתגובות ואשלח לכם בפרטי איך עשיתי את זה 👇\n#בינהמלאכותית #קלוד #אוטומציה #בעליעסקים #צלם",
-   "keyword": "איך",
-   "story_share": "וכל זה בלי לדעת לתכנת 👇",
-   "story_question": "מה הדבר הכי משעמם שאתם עושים ידנית בעסק? (תיבת שאלה)",
-   "status": "pending",
-   "image_urls": [
-    "https://prompts.assoulineweb.com/media/k4_1.jpg",
-    "https://prompts.assoulineweb.com/media/k4_2.jpg",
-    "https://prompts.assoulineweb.com/media/k4_3.jpg",
-    "https://prompts.assoulineweb.com/media/k4_4.jpg",
-    "https://prompts.assoulineweb.com/media/k4_5.jpg"
-   ]
-  },
-  {
-   "date": "2026-11-13",
-   "time": "12:00",
-   "type": "VIDEO",
-   "caption": "הטקסטים שלכם נשמעים כאילו רובוט כתב אותם? 🤖\n4 דברים שאני עושה בקלוד כדי שכל טקסט יישמע בדיוק כמוני:\n1. דוגמאות\n2. קהל\n3. מילים אסורות\n4. שלב אחרי שלב\n\nתעקבו ותגיבו \"אנושי\" ואשלח לכם את הפרומפט המלא בפרטי 👇\n\n#בינהמלאכותית #קלוד #פרומפטים #יצירתתוכן #בעליעסקים",
-   "keyword": "אנושי",
-   "story_share": "שימו לב לטעות מספר 3 👀",
-   "story_question": "הטקסטים שלכם נשמעים כמו רובוט? (לפעמים / אף פעם)",
-   "status": "pending",
-   "video_url": "https://prompts.assoulineweb.com/media/v08.mp4",
-   "cover_url": "https://prompts.assoulineweb.com/media/c08.jpg"
-  }
- ],
- "dm": {
-  "אתר": "היי! 🙌 הנה האתר עם כל הפרומפטים, בעברית ובחינם:\nhttps://prompts.assoulineweb.com/\nואם נרשמים שם, מקבלים עוד 5 פרומפטים במתנה 🎁",
-  "לקוחות": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#clients\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
-  "פרומפט": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#weekly5\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
-  "קמפיין": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#campaign\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
-  "נוסחה": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#formula\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
-  "ויראלי": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#viral\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
-  "תבנית": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#template\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
-  "תוכן": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#content\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
-  "בודק": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#checker\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
-  "איך": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#automate\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
-  "אנושי": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#human\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥"
- },
- "comment_reply": [
-  "שלחתי לך בפרטי 🙌",
-  "נשלח! תבדקו את ההודעות 📩",
-  "שלחתי, תעדכנו איך יצא 🔥"
- ]
+  "comment_reply": [
+    "שלחתי לך בפרטי 🙌",
+    "נשלח! תבדקו את ההודעות 📩",
+    "שלחתי, תעדכנו איך יצא 🔥"
+  ]
 }
