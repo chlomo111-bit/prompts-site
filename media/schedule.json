@@ -190,6 +190,64 @@
         "https://prompts.assoulineweb.com/media/k6_4.jpg",
         "https://prompts.assoulineweb.com/media/k6_5.jpg"
       ]
+    },
+    {
+      "date": "2026-11-17",
+      "time": "19:00",
+      "type": "VIDEO",
+      "caption": "מה שאתם שומעים בסרטון הזה, זה לא אני 🤯\nלא הקלטתי אף מילה, זה הקול המשובט שלי.\n\nככה עושים את זה:\n1️⃣ מקליטים דקה אחת בחדר שקט\n2️⃣ מעלים ל־ElevenLabs ויוצרים קול\n3️⃣ קלוד כותב את הטקסט, ומקבלים אותו בקול שלכם\n\nתגיבו \"קול\" ואשלח לכם את המדריך המלא 👇\nושלחו למי שעדיין מקליט כל סרטון מחדש\n\n#בינהמלאכותית #שיבוטקול #יצירתתוכן #קלוד #ElevenLabs",
+      "keyword": "קול",
+      "story_share": "זה לא אני מדבר 🤯",
+      "story_question": "הייתם משבטים את הקול שלכם? (כן / מפחיד 😅)",
+      "status": "pending",
+      "video_url": "https://prompts.assoulineweb.com/media/v11.mp4",
+      "cover_url": "https://prompts.assoulineweb.com/media/c11.jpg"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "19:00",
+      "type": "CAROUSEL",
+      "caption": "7 משפטים שהופכים את Claude לעובד הכי טוב שלכם 💡\nמוסיפים אחד מהם לפרומפט, והתשובה משתנה לגמרי.\nשמרו את הפוסט 🔖 וכתבו \"משפטים\" בתגובות לרשימה המלאה בפרטי 👇\n#בינהמלאכותית #קלוד #פרומפטים #טיפים #בעליעסקים",
+      "keyword": "משפטים",
+      "story_share": "שמרו את זה 🔖",
+      "story_question": "איזה משפט הכי עזר לכם?",
+      "status": "pending",
+      "image_urls": [
+        "https://prompts.assoulineweb.com/media/k7_1.jpg",
+        "https://prompts.assoulineweb.com/media/k7_2.jpg",
+        "https://prompts.assoulineweb.com/media/k7_3.jpg",
+        "https://prompts.assoulineweb.com/media/k7_4.jpg",
+        "https://prompts.assoulineweb.com/media/k7_5.jpg"
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "time": "19:00",
+      "type": "VIDEO",
+      "caption": "כמה לקוחות הפסדתם השבוע, כי לא עניתם בזמן? 😬\nבניתי לעצמי עוזר שעונה ללקוחות בוואטסאפ, בסגנון שלי.\nוהכל התחיל מפרומפט אחד בקלוד.\n\nתגיבו \"בוט\" ואשלח לכם את הפרומפט בפרטי 👇\nושלחו לחבר שתמיד עונה ללקוחות באיחור\n\n#בינהמלאכותית #קלוד #וואטסאפ #בעליעסקים #שירותלקוחות",
+      "keyword": "בוט",
+      "story_share": "ככה אני לא מפספס לקוחות 👇",
+      "story_question": "כמה זמן לוקח לכם לענות ללקוח? (מיד / שעות 😅)",
+      "status": "pending",
+      "video_url": "https://prompts.assoulineweb.com/media/v12.mp4",
+      "cover_url": "https://prompts.assoulineweb.com/media/c12.jpg"
+    },
+    {
+      "date": "2026-11-21",
+      "time": "19:00",
+      "type": "CAROUSEL",
+      "caption": "הלקוח לא שילם? ככה מזכירים לו בלי להיות לא נעים 💸\n3 הודעות, מהעדינה עד הישירה, בפרומפט אחד ל־Claude.\nכתבו \"תשלום\" בתגובות ואשלח לכם את הפרומפט בפרטי 👇\nושלחו לחבר עצמאי שמכיר את זה\n#עצמאים #בעליעסקים #קלוד #בינהמלאכותית #גבייה",
+      "keyword": "תשלום",
+      "story_share": "מכירים את זה? 😅",
+      "story_question": "קרה לכם שלקוח לא שילם? (כן / אף פעם)",
+      "status": "pending",
+      "image_urls": [
+        "https://prompts.assoulineweb.com/media/k8_1.jpg",
+        "https://prompts.assoulineweb.com/media/k8_2.jpg",
+        "https://prompts.assoulineweb.com/media/k8_3.jpg",
+        "https://prompts.assoulineweb.com/media/k8_4.jpg",
+        "https://prompts.assoulineweb.com/media/k8_5.jpg"
+      ]
     }
   ],
   "dm": {
@@ -205,7 +263,11 @@
     "איך": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#automate\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
     "אנושי": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#human\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
     "הוצאות": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#expenses\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
-    "תורים": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#booking\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥"
+    "תורים": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#booking\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "קול": "היי! 🙌 הנה המדריך המלא לשיבוט הקול שלך, עם הפרומפט לטקסט:\nhttps://prompts.assoulineweb.com/#voice\nבהצלחה! 🎙️",
+    "בוט": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#bot\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "משפטים": "היי! 🙌 הנה 7 המשפטים, מוכנים להעתקה:\nhttps://prompts.assoulineweb.com/#phrases\nשמרו אותם בפתק 🔖",
+    "תשלום": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#payment\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥"
   },
   "comment_reply": [
     "שלחתי לך בפרטי 🙌",
@@ -225,7 +287,11 @@
     "איך": "automate",
     "אנושי": "human",
     "הוצאות": "expenses",
-    "תורים": "booking"
+    "תורים": "booking",
+    "קול": "voice",
+    "בוט": "bot",
+    "משפטים": "phrases",
+    "תשלום": "payment"
   },
   "stories": [
     {
@@ -401,6 +467,83 @@
       "time": "16:00",
       "image_url": "https://prompts.assoulineweb.com/media/stories/s_1116_1600.jpg",
       "keyword": "תורים",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-17",
+      "time": "11:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1117_1100.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-17",
+      "time": "16:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1117_1600.jpg",
+      "keyword": "קול",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "11:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1118_1100.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-18",
+      "time": "16:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1118_1600.jpg",
+      "keyword": "משפטים",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "11:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1119_1100.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-19",
+      "time": "16:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1119_1600.jpg",
+      "keyword": "בוט",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-20",
+      "time": "10:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1120_1000.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-20",
+      "time": "11:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1120_1100.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-20",
+      "time": "13:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1120_1300.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-21",
+      "time": "18:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1121_1800.jpg",
+      "keyword": "תשלום",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-21",
+      "time": "20:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1121_2000.jpg",
+      "keyword": null,
       "status": "pending"
     }
   ],
