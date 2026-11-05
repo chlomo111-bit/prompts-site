@@ -119,18 +119,6 @@
     {
       "date": "2026-11-11",
       "time": "19:00",
-      "type": "VIDEO",
-      "caption": "תגיבו \"בודק\" ואשלח לכם את הבודק שלי בפרטי 🎁\nושתפו עם מי שמעלה תוכן, זה יחסוך לו המון ניחושים.\n\nלקחתי את כל מה שאדם מוסרי, ראש אינסטגרם, אמר בפומבי על האלגוריתם,\nוהפכתי את זה לפרומפט ל־Claude שבודק כל רילס לפני שהוא עולה.\n\nמה שהכי הפתיע אותי:\n❌ אצל מי שלא עוקב, לייקים זה לא הכל.\n✅ מה שהכי חשוב זה כמה פעמים שולחים את הסרטון בפרטי.\n\nאז לפני כל רילס, אני שואל שאלה אחת:\nלמי מישהו ישלח את זה?\nאין תשובה? לא מעלים.\n\n#אינסטגרם #קלוד #בינהמלאכותית #יוצריתוכן #שיווקדיגיטלי",
-      "keyword": "בודק",
-      "story_share": "ראש אינסטגרם בעצמו אמר את זה 👇",
-      "story_question": "ידעתם ששליחות בפרטי חשובות יותר מלייקים? (ידעתי / בכלל לא)",
-      "status": "pending",
-      "video_url": "https://prompts.assoulineweb.com/media/v07.mp4",
-      "cover_url": "https://prompts.assoulineweb.com/media/c07.jpg"
-    },
-    {
-      "date": "2026-11-12",
-      "time": "19:00",
       "type": "CAROUSEL",
       "caption": "5 דברים שהפסקתי לעשות ידנית מאז שאני עובד עם Claude ✅\nכתבו \"איך\" בתגובות ואשלח לכם בפרטי איך עשיתי את זה 👇\n#בינהמלאכותית #קלוד #אוטומציה #בעליעסקים #צלם",
       "keyword": "איך",
@@ -146,8 +134,37 @@
       ]
     },
     {
-      "date": "2026-11-13",
-      "time": "12:00",
+      "date": "2026-11-12",
+      "time": "19:00",
+      "type": "VIDEO",
+      "caption": "תגיבו \"בודק\" ואשלח לכם את הבודק שלי בפרטי 🎁\nושתפו עם מי שמעלה תוכן, זה יחסוך לו המון ניחושים.\n\nלקחתי את כל מה שאדם מוסרי, ראש אינסטגרם, אמר בפומבי על האלגוריתם,\nוהפכתי את זה לפרומפט ל־Claude שבודק כל רילס לפני שהוא עולה.\n\nמה שהכי הפתיע אותי:\n❌ אצל מי שלא עוקב, לייקים זה לא הכל.\n✅ מה שהכי חשוב זה כמה פעמים שולחים את הסרטון בפרטי.\n\nאז לפני כל רילס, אני שואל שאלה אחת:\nלמי מישהו ישלח את זה?\nאין תשובה? לא מעלים.\n\n#אינסטגרם #קלוד #בינהמלאכותית #יוצריתוכן #שיווקדיגיטלי",
+      "keyword": "בודק",
+      "story_share": "ראש אינסטגרם בעצמו אמר את זה 👇",
+      "story_question": "ידעתם ששליחות בפרטי חשובות יותר מלייקים? (ידעתי / בכלל לא)",
+      "status": "pending",
+      "video_url": "https://prompts.assoulineweb.com/media/v07.mp4",
+      "cover_url": "https://prompts.assoulineweb.com/media/c07.jpg"
+    },
+    {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "type": "CAROUSEL",
+      "caption": "רואה החשבון שלכם לא צריך לסדר לכם קבלות 🧾\nפרומפט אחד ל־Claude שהופך ערימה מבולגנת של הוצאות והכנסות לטבלה מסודרת, עם כמה נשאר לכם בסוף החודש.\nשמרו את הפוסט 🔖 וכתבו \"הוצאות\" בתגובות, ואשלח לכם את הפרומפט בפרטי 👇\n#בינהמלאכותית #קלוד #בעליעסקים #עצמאים #הנהלתחשבונות",
+      "keyword": "הוצאות",
+      "story_share": "סוף החודש בלי כאב ראש 🧾",
+      "story_question": "מי מסדר לכם את הקבלות? (אני / רואה חשבון)",
+      "status": "pending",
+      "image_urls": [
+        "https://prompts.assoulineweb.com/media/k5_1.jpg",
+        "https://prompts.assoulineweb.com/media/k5_2.jpg",
+        "https://prompts.assoulineweb.com/media/k5_3.jpg",
+        "https://prompts.assoulineweb.com/media/k5_4.jpg",
+        "https://prompts.assoulineweb.com/media/k5_5.jpg"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "time": "19:00",
       "type": "VIDEO",
       "caption": "הטקסטים שלכם נשמעים כאילו רובוט כתב אותם? 🤖\n4 דברים שאני עושה בקלוד כדי שכל טקסט יישמע בדיוק כמוני:\n1. דוגמאות\n2. קהל\n3. מילים אסורות\n4. שלב אחרי שלב\n\nתעקבו ותגיבו \"אנושי\" ואשלח לכם את הפרומפט המלא בפרטי 👇\n\n#בינהמלאכותית #קלוד #פרומפטים #יצירתתוכן #בעליעסקים",
       "keyword": "אנושי",
@@ -156,6 +173,23 @@
       "status": "pending",
       "video_url": "https://prompts.assoulineweb.com/media/v08.mp4",
       "cover_url": "https://prompts.assoulineweb.com/media/c08.jpg"
+    },
+    {
+      "date": "2026-11-16",
+      "time": "19:00",
+      "type": "CAROUSEL",
+      "caption": "ספרים, תפסיקו לכתוב תורים במחברת 💈\nעם פרומפט אחד, Claude בונה לכם דף תורים משלכם: בעברית, בטלפון, והלקוח קובע לבד ושולח לכם וואטסאפ.\nכתבו \"תורים\" בתגובות ואשלח לכם את הפרומפט בפרטי 👇\nושלחו את הפוסט לספר שלכם 😉\n#ספרים #מספרה #קלוד #בינהמלאכותית #בעליעסקים",
+      "keyword": "תורים",
+      "story_share": "שלחו לספר שלכם 💈",
+      "story_question": "הספר שלכם עדיין עם מחברת? (כן 😅 / לא)",
+      "status": "pending",
+      "image_urls": [
+        "https://prompts.assoulineweb.com/media/k6_1.jpg",
+        "https://prompts.assoulineweb.com/media/k6_2.jpg",
+        "https://prompts.assoulineweb.com/media/k6_3.jpg",
+        "https://prompts.assoulineweb.com/media/k6_4.jpg",
+        "https://prompts.assoulineweb.com/media/k6_5.jpg"
+      ]
     }
   ],
   "dm": {
@@ -169,11 +203,206 @@
     "תוכן": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#content\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
     "בודק": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#checker\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
     "איך": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#automate\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
-    "אנושי": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#human\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥"
+    "אנושי": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#human\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "הוצאות": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#expenses\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "תורים": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#booking\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥"
   },
   "comment_reply": [
     "שלחתי לך בפרטי 🙌",
     "נשלח! תבדקו את ההודעות 📩",
     "שלחתי, תעדכנו איך יצא 🔥"
-  ]
+  ],
+  "slugs": {
+    "אתר": "",
+    "לקוחות": "clients",
+    "פרומפט": "weekly5",
+    "קמפיין": "campaign",
+    "נוסחה": "formula",
+    "ויראלי": "viral",
+    "תבנית": "template",
+    "תוכן": "content",
+    "בודק": "checker",
+    "איך": "automate",
+    "אנושי": "human",
+    "הוצאות": "expenses",
+    "תורים": "booking"
+  },
+  "stories": [
+    {
+      "date": "2026-11-05",
+      "time": "16:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1105_1600.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-05",
+      "time": "17:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1105_1700.jpg",
+      "keyword": "פרומפט",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-06",
+      "time": "10:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1106_1000.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-06",
+      "time": "11:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1106_1100.jpg",
+      "keyword": "קמפיין",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-07",
+      "time": "20:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1107_2000.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-07",
+      "time": "18:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1107_1800.jpg",
+      "keyword": "נוסחה",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-08",
+      "time": "11:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1108_1100.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-08",
+      "time": "16:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1108_1600.jpg",
+      "keyword": "ויראלי",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-09",
+      "time": "11:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1109_1100.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-09",
+      "time": "16:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1109_1600.jpg",
+      "keyword": "תבנית",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-10",
+      "time": "11:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1110_1100.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-10",
+      "time": "16:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1110_1600.jpg",
+      "keyword": "תוכן",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "11:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1111_1100.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-11",
+      "time": "16:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1111_1600.jpg",
+      "keyword": "איך",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "11:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1112_1100.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-12",
+      "time": "16:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1112_1600.jpg",
+      "keyword": "בודק",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-13",
+      "time": "10:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1113_1000.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-13",
+      "time": "11:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1113_1100.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-13",
+      "time": "13:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1113_1300.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-14",
+      "time": "20:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1114_2000.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-14",
+      "time": "18:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1114_1800.jpg",
+      "keyword": "הוצאות",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-15",
+      "time": "11:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1115_1100.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-15",
+      "time": "16:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1115_1600.jpg",
+      "keyword": "אנושי",
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-16",
+      "time": "11:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1116_1100.jpg",
+      "keyword": null,
+      "status": "pending"
+    },
+    {
+      "date": "2026-11-16",
+      "time": "16:00",
+      "image_url": "https://prompts.assoulineweb.com/media/stories/s_1116_1600.jpg",
+      "keyword": "תורים",
+      "status": "pending"
+    }
+  ],
+  "rules": "Chaque semaine (dim.-sam.) : 3 reels + 3 carrousels, 3 stories par jour (2 stories du programme 'stories' + la story auto apres la publication ; les jours sans publication, 3 stories du programme). Rien avant 08:00, rien pendant Shabbat."
 }
