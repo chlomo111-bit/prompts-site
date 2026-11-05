@@ -55,7 +55,7 @@
       "story_share": "כמה אתם משלמים על זה? 😳",
       "story_question": "כמה אתם משלמים על פרסום בחודש? (פחות מ־1,000 ₪ / יותר)",
       "status": "pending",
-      "video_url": "https://prompts.assoulineweb.com/media/v03.mp4",
+      "video_url": "https://prompts.assoulineweb.com/media/v03m.mp4",
       "cover_url": "https://prompts.assoulineweb.com/media/c03.jpg"
     },
     {
@@ -84,7 +84,7 @@
       "story_share": "בדקתי את זה על הרילסים שלי 👇",
       "story_question": "מה היה הרילס הכי מצליח שלכם? (תיבת שאלה)",
       "status": "pending",
-      "video_url": "https://prompts.assoulineweb.com/media/v04.mp4",
+      "video_url": "https://prompts.assoulineweb.com/media/v04m.mp4",
       "cover_url": "https://prompts.assoulineweb.com/media/c04.jpg"
     },
     {
@@ -113,7 +113,7 @@
       "story_share": "ככה אני חוסך שעות כל שבוע 👇",
       "story_question": "כמה זמן לוקח לכם להכין תוכן לשבוע? (סליידר)",
       "status": "pending",
-      "video_url": "https://prompts.assoulineweb.com/media/v05.mp4",
+      "video_url": "https://prompts.assoulineweb.com/media/v05m.mp4",
       "cover_url": "https://prompts.assoulineweb.com/media/c05.jpg"
     },
     {
@@ -142,7 +142,7 @@
       "story_share": "ראש אינסטגרם בעצמו אמר את זה 👇",
       "story_question": "ידעתם ששליחות בפרטי חשובות יותר מלייקים? (ידעתי / בכלל לא)",
       "status": "pending",
-      "video_url": "https://prompts.assoulineweb.com/media/v07.mp4",
+      "video_url": "https://prompts.assoulineweb.com/media/v07m.mp4",
       "cover_url": "https://prompts.assoulineweb.com/media/c07.jpg"
     },
     {
@@ -171,7 +171,7 @@
       "story_share": "שימו לב לטעות מספר 3 👀",
       "story_question": "הטקסטים שלכם נשמעים כמו רובוט? (לפעמים / אף פעם)",
       "status": "pending",
-      "video_url": "https://prompts.assoulineweb.com/media/v08.mp4",
+      "video_url": "https://prompts.assoulineweb.com/media/v08m.mp4",
       "cover_url": "https://prompts.assoulineweb.com/media/c08.jpg"
     },
     {
@@ -195,13 +195,13 @@
       "date": "2026-11-17",
       "time": "19:00",
       "type": "VIDEO",
-      "caption": "מה שאתם שומעים בסרטון הזה, זה לא אני 🤯\nלא הקלטתי אף מילה, זה הקול המשובט שלי.\n\nככה עושים את זה:\n1️⃣ מקליטים דקה אחת בחדר שקט\n2️⃣ מעלים ל־ElevenLabs ויוצרים קול\n3️⃣ קלוד כותב את הטקסט, ומקבלים אותו בקול שלכם\n\nתגיבו \"קול\" ואשלח לכם את המדריך המלא 👇\nושלחו למי שעדיין מקליט כל סרטון מחדש\n\n#בינהמלאכותית #שיבוטקול #יצירתתוכן #קלוד #ElevenLabs",
-      "keyword": "קול",
-      "story_share": "זה לא אני מדבר 🤯",
-      "story_question": "הייתם משבטים את הקול שלכם? (כן / מפחיד 😅)",
+      "caption": "כמה לקוחות הפסדתם השבוע, כי לא עניתם בזמן? 😬\nבניתי לעצמי עוזר שעונה ללקוחות בוואטסאפ, בסגנון שלי.\nוהכל התחיל מפרומפט אחד בקלוד.\n\nתגיבו \"בוט\" ואשלח לכם את הפרומפט בפרטי 👇\nושלחו לחבר שתמיד עונה ללקוחות באיחור\n\n#בינהמלאכותית #קלוד #וואטסאפ #בעליעסקים #שירותלקוחות",
+      "keyword": "בוט",
+      "story_share": "ככה אני לא מפספס לקוחות 👇",
+      "story_question": "כמה זמן לוקח לכם לענות ללקוח? (מיד / שעות 😅)",
       "status": "pending",
-      "video_url": "https://prompts.assoulineweb.com/media/v11.mp4",
-      "cover_url": "https://prompts.assoulineweb.com/media/c11.jpg"
+      "video_url": "https://prompts.assoulineweb.com/media/v12m.mp4",
+      "cover_url": "https://prompts.assoulineweb.com/media/c12.jpg"
     },
     {
       "date": "2026-11-18",
@@ -224,13 +224,13 @@
       "date": "2026-11-19",
       "time": "19:00",
       "type": "VIDEO",
-      "caption": "כמה לקוחות הפסדתם השבוע, כי לא עניתם בזמן? 😬\nבניתי לעצמי עוזר שעונה ללקוחות בוואטסאפ, בסגנון שלי.\nוהכל התחיל מפרומפט אחד בקלוד.\n\nתגיבו \"בוט\" ואשלח לכם את הפרומפט בפרטי 👇\nושלחו לחבר שתמיד עונה ללקוחות באיחור\n\n#בינהמלאכותית #קלוד #וואטסאפ #בעליעסקים #שירותלקוחות",
-      "keyword": "בוט",
-      "story_share": "ככה אני לא מפספס לקוחות 👇",
-      "story_question": "כמה זמן לוקח לכם לענות ללקוח? (מיד / שעות 😅)",
+      "caption": "תיבת המייל שלכם מפוצצת? 📩\nמדביקים את המיילים לקלוד, ומקבלים: מה דחוף, מה לענות, מה למחוק, ואפילו טיוטת תשובה לכל מייל.\n\nתגיבו \"מיילים\" ואשלח לכם את הפרומפט בפרטי 👇\nושלחו למי שיש לו אלף מיילים שלא נקראו\n\n#בינהמלאכותית #קלוד #פרודוקטיביות #בעליעסקים #ניהולזמן",
+      "keyword": "מיילים",
+      "story_share": "אפס מיילים שלא נקראו 😌",
+      "story_question": "כמה מיילים שלא נקראו יש לכם? (פחות מ־10 / יותר מ־100 😅)",
       "status": "pending",
-      "video_url": "https://prompts.assoulineweb.com/media/v12.mp4",
-      "cover_url": "https://prompts.assoulineweb.com/media/c12.jpg"
+      "video_url": "https://prompts.assoulineweb.com/media/v13.mp4",
+      "cover_url": "https://prompts.assoulineweb.com/media/c13.jpg"
     },
     {
       "date": "2026-11-21",
@@ -267,7 +267,8 @@
     "קול": "היי! 🙌 הנה המדריך המלא לשיבוט הקול שלך, עם הפרומפט לטקסט:\nhttps://prompts.assoulineweb.com/#voice\nבהצלחה! 🎙️",
     "בוט": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#bot\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
     "משפטים": "היי! 🙌 הנה 7 המשפטים, מוכנים להעתקה:\nhttps://prompts.assoulineweb.com/#phrases\nשמרו אותם בפתק 🔖",
-    "תשלום": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#payment\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥"
+    "תשלום": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#payment\nמעתיקים לקלוד, ממלאים את מה שבסוגריים, ומקבלים תוצאה. בהצלחה! 🔥",
+    "מיילים": "היי! 🙌 הנה הפרומפט שביקשת, מוכן להעתקה:\nhttps://prompts.assoulineweb.com/#inbox\nמעתיקים לקלוד, מדביקים את המיילים, ומקבלים תוצאה. בהצלחה! 🔥"
   },
   "comment_reply": [
     "שלחתי לך בפרטי 🙌",
@@ -291,7 +292,8 @@
     "קול": "voice",
     "בוט": "bot",
     "משפטים": "phrases",
-    "תשלום": "payment"
+    "תשלום": "payment",
+    "מיילים": "inbox"
   },
   "stories": [
     {
@@ -480,7 +482,7 @@
       "date": "2026-11-17",
       "time": "16:00",
       "image_url": "https://prompts.assoulineweb.com/media/stories/s_1117_1600.jpg",
-      "keyword": "קול",
+      "keyword": "בוט",
       "status": "pending"
     },
     {
@@ -508,7 +510,7 @@
       "date": "2026-11-19",
       "time": "16:00",
       "image_url": "https://prompts.assoulineweb.com/media/stories/s_1119_1600.jpg",
-      "keyword": "בוט",
+      "keyword": "מיילים",
       "status": "pending"
     },
     {
@@ -547,5 +549,5 @@
       "status": "pending"
     }
   ],
-  "rules": "Chaque semaine (dim.-sam.) : 3 reels + 3 carrousels, 3 stories par jour (2 stories du programme 'stories' + la story auto apres la publication ; les jours sans publication, 3 stories du programme). Rien avant 08:00, rien pendant Shabbat."
+  "rules": "Chaque semaine (dim.-sam.) : 3 reels + 3 carrousels, 3 stories par jour (2 stories du programme 'stories' + la story auto apres la publication ; les jours sans publication, 3 stories du programme). Rien avant 08:00, rien pendant Shabbat. Pas de voix IA dans les reels pour l'instant (05.11.2026) : texte + musique seulement."
 }
